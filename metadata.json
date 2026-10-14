@@ -1,0 +1,49 @@
+{
+  "title": "Comprehensive Tech Stocks Dataset (AAPL, MSFT, NVDA, GOOG, TSLA) 2010-2024",
+  "id": "sinanKr/tech-stocks-dataset",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "AAPL.csv",
+      "description": "Apple Inc. daily stock data with technical indicators and macroeconomic variables"
+    },
+    {
+      "path": "MSFT.csv",
+      "description": "Microsoft Corporation daily stock data with technical indicators and macroeconomic variables"
+    },
+    {
+      "path": "NVDA.csv",
+      "description": "NVIDIA Corporation daily stock data with technical indicators and macroeconomic variables"
+    },
+    {
+      "path": "GOOG.csv",
+      "description": "Alphabet Inc. daily stock data with technical indicators and macroeconomic variables"
+    },
+    {
+      "path": "TSLA.csv",
+      "description": "Tesla Inc. daily stock data with technical indicators and macroeconomic variables"
+    }
+  ],
+  "keywords": [
+    "stocks",
+    "financial-data",
+    "technology-companies",
+    "market-data",
+    "technical-indicators"
+  ],
+  "isPrivate": false,
+  "description": "Comprehensive daily stock market data for five major technology companies (AAPL, MSFT, NVDA, GOOG, TSLA) from 2010-2024, including price data, technical indicators, and related macroeconomic variables. Data sourced from Yahoo Finance API.",
+  "collaborators": [],
+  "dataPackageVersion": "1.0",
+  "lastUpdated": "2024-02-20",
+  "owner": "sinanKr",
+  "size": "50MB+",
+  "categories": [
+    "Finance"
+  ]
+}
